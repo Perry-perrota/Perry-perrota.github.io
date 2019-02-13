@@ -1,0 +1,154 @@
+/*
+ Theme Name:   Buzzblog Child
+ Theme URI:    http://buzzblog.hercules-design.com
+ Description:  Buzzblog Child Theme
+ Author:       Hercules Design
+ Author URI:   http://hercules-design.com
+ Template:     buzzblog
+ Version:      2.5
+ Tags:         two-columns, three-columns, four-columns, right-sidebar, accessibility-ready
+ Text Domain:  buzzblog-child
+*/
+
+.lowestfooter {
+    border-top: 1px solid #222;
+    margin-top: 0px;
+    padding: 20px 0 20px 0;
+    font-size: 13px;
+    background: #8C6239;
+}
+.list-post h2.list-post-title a{
+    font-family: "Lato"!important;
+    text-align: left;
+    text-transform: none;
+    line-height: 50px!important;
+    letter-spacing: -1px;
+    font-weight: 500!important;
+    font-style: normal;
+    color: #8c6239!important;
+    font-size: 30px!important;
+}
+.meta-space-top, .meta-space-top a {
+    color: orange;
+    margin: 0px 0px 12px;
+    letter-spacing: normal;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+}
+.button{
+    font-family: 'Lato';
+    text-align: left!important;
+    color: orange;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.sidebar ul {
+    padding: 0;
+    font-family: 'Yanone Kaffeesatz';
+    color: #000!important;
+    font-weight: 400;
+    font-size: 22px;
+    text-transform: capitalize;
+    list-style-type: square;
+}
+.widget_recent_entries li {
+    border-top: 0px dashed #eaeaea!important;
+    border-top: 0px dashed rgba(51, 51, 51, 0.1)!important;
+    padding: 0px!important;
+}
+.btn, .btn-default, .btn-normal{
+    font-family: "Amatic SC";
+    font-size: 25px;
+    font-weight: 600;
+}
+.carousel-wrap h2 {
+    font-size: 40px!important;
+    line-height: 45px;
+    margin: 10px 0px 10px 0;
+    color: #8c6239!important;
+    font-weight: 600!important;
+}
+.ad-banner{
+        height: 90px;
+    margin-top: 10px;
+}
+.biko-header{
+    max-width: 100%!important;
+    width:100%!important;
+}
+.top-container .social__list a, .top-container-normal .social__list a {
+    margin: 0 4px 0 4px;
+    font-size: 18px;
+    width: auto;
+    height: auto;
+}
+.footer-text {
+    font-size: 25px;
+    text-align: right;
+    padding: 0px 0 0px 0;
+    font-family: "Reenie Beanie";
+}
+.widget-content h4.subtitle {
+    padding-bottom: 14px!important;
+    background: url(images/line.png) no-repeat bottom!important;
+        border-bottom: 0px dashed #E9E9E9;
+}
+.list_post_content .hs-icon {
+}
+.main-banner{
+background-color: #fff;
+    margin-top: 10px;
+    border: 20px solid transparent;
+    border-image: url(images/lines-straight.png) 25 repeat;
+     -moz-box-shadow: -1px 1px 5px 4px rgba(0,0,0,0.05);
+    box-shadow: -1px 1px 5px 2px rgba(0,0,0,0.05);
+}
+.home-banner{
+
+position: relative;
+}
+.title-mainbanner{
+    padding-top:2%;
+    
+}
+a.main-title{
+    font-family: "Lato"!important;
+    color: #8c6239!important;
+    font-size: 35px!important;
+    text-transform: capitalize;
+
+}
+article, .widget, .grid-block, .list-post .block .list_post_content {
+    padding: 30px;
+    background: #fff;
+        -moz-box-shadow: -1px 1px 5px 4px rgba(0,0,0,0.05);
+    box-shadow: -1px 1px 5px 2px rgba(0,0,0,0.05);
+    position: relative;
+    overflow: hidden;
+}
+.post-header h2 a, h2.post-title {
+    font-family: "Lato"!important;
+    text-align: left;
+    text-transform: none;
+    line-height: 44px;
+    letter-spacing: -1px;
+    font-weight: 400;
+    font-style: normal;
+    color: #8c6239!important;
+    font-size: 40px;
+}
+.most-commented-section, .comment-body {
+    padding: 10px;
+    background: #fff;
+    -webkit-box-shadow: 3px 3px 1px rgba(0, 0, 0, 0.05);
+    -moz-box-shadow: 3px 3px 1px rgba(0, 0, 0, 0.05);
+    box-shadow: 3px 3px 1px rgba(0, 0, 0, 0.05);
+}
+.header .container {
+    border-bottom: 0px solid #eeeeee;
+    max-width: 100%;
+    width: 100%;
+}

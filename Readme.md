@@ -8,7 +8,7 @@
 * Known Bugs
 {Not tested on smaller screens }
 ## Technologies Used
-{Tried to use as much of html and css that I could.Employing the use of containers for easy styling of sections }
+{Tried to use as much of html and css that I could. Employing the use of containers for easy styling of sections }
 ## Support and contact details
 {Mail me at perryobara@gmail.com for comments and enquiries}
 

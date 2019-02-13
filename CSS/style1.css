@@ -9,12 +9,13 @@ div.sidebar{
   height: auto;
 }
 div.mainmenu{
-  list-style-type: lower-latin;
+  list-style-type: none;
   width: 100%;
   background-color: grey;
   font-family: sans-serif;
-  text-align: center;
+  text-align: left;
   height:50px;
+
 }
 div.layut{
   height: auto;
@@ -29,7 +30,6 @@ div.background{
   padding: 0;
   width: 82.5%;
   background-color: grey;
-  font-style: italic;
 }
 img.frem{
   height: 100px;
@@ -37,4 +37,24 @@ img.frem{
 }
 h1{
   font-style: normal;
+}
+.educ{
+  font-style: italic;
+  background-color: white;
+  margin-right: auto;
+}
+span.name{
+font-style: italic;
+color: red;
+}
+p.welcome{
+  font-family: fantasy;
+  font-style: oblique;
+}
+p.last{
+  font-size: 20px;
+  font-style: italic;
+}
+p{
+  margin: 0px;
 }
